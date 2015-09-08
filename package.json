@@ -1,0 +1,11 @@
+{
+  "name": "kurea-contrib-trivia",
+  "main": "index.coffee",
+  "version": "1.0.0",
+  "description": "Uses jservice.io to play trivia games on IRC.",
+  "license": "MIT",
+  "dependencies": {
+    "irc-colors": "^1.2.0",
+    "superagent": "^1.3.0"
+  }
+}
